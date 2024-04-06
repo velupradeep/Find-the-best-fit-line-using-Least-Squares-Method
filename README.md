@@ -1,3 +1,6 @@
+                                #NAME:PRADEEP V
+                                #REG NO:212223240119
+
 # Implementation of Univariate Linear Regression
 ## AIM:
 To implement univariate Linear Regression to fit a straight line using least squares.
@@ -42,14 +45,15 @@ plt.plot(x,y_pred,color='red')
 plt.show()
 /*
 Program to implement univariate Linear Regression to fit a straight line using least squares.
-Developed by: 
-RegisterNumber:  
+Developed by:PRADEEP V
+RegisterNumber:212223240119
 */
 
 ```
 
 ## Output:
-![Screenshot 2024-02-17 114436](https://github.com/velupradeep/Find-the-best-fit-line-using-Least-Squares-Method/assets/150329341/74b84a4f-ced0-426d-9098-7bd151f144a8)
+![WhatsApp Image 2024-04-06 at 14 42 06_1eb96e06](https://github.com/velupradeep/Find-the-best-fit-line-using-Least-Squares-Method/assets/150329341/9c037837-4692-4ddb-979a-97b4ac63fee9)
+
 
 
 
