@@ -1,5 +1,4 @@
-                                #NAME:PRADEEP V
-                                #REG NO:212223240119
+
 
 # EX-01 Implementation of Univariate Linear Regression
 ## AIM:
@@ -20,6 +19,14 @@ To implement univariate Linear Regression to fit a straight line using least squ
 6. Obtain the straight line equation Y=mX+b and plot the scatterplot.
 
 ## Program:
+```
+/*
+Program to implement univariate Linear Regression to fit a straight line using least squares.
+Developed by:PRADEEP V
+RegisterNumber:212223240119
+*/
+
+```
 ```
 
 import numpy as np
@@ -47,14 +54,7 @@ plt.show()
 ```
 
 
-```
-/*
-Program to implement univariate Linear Regression to fit a straight line using least squares.
-Developed by:PRADEEP V
-RegisterNumber:212223240119
-*/
 
-```
 
 ## Output:
 ![WhatsApp Image 2024-04-06 at 14 42 06_1eb96e06](https://github.com/velupradeep/Find-the-best-fit-line-using-Least-Squares-Method/assets/150329341/9c037837-4692-4ddb-979a-97b4ac63fee9)
